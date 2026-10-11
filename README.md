@@ -4,6 +4,16 @@
 
 # 👋 Hi, I'm Adarsh Kushwaha
 
+<div align="center">
+  <img src="./profile.png" width="150" height="150" alt="Adarsh's profile photo" style="border-radius: 50%;" />
+</div>
+
+<div align="center">
+
+
+
+</div>
+
 ### Aspiring Software Developer | Web Development | AI Integration
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00D9FF&center=true&vCenter=true&width=650&lines=Web+Developer+in+Progress;Building+Projects+with+TypeScript;Learning+Backend+Development;Exploring+AI+Integration" alt="Animated introduction" />
@@ -57,24 +67,26 @@ An educational management dashboard designed to help schools manage student info
 ## 🤝 Connect With Me
 
 
-## 🤝 Connect With Me
 
-<div align="center">
+<h2 align="center">🤝 Connect With Me</h2>
 
-<a href="https://github.com/adarshadarshkushwaha-ux">
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-</a>
-<a href="https://www.linkedin.com/in/adarsh-kushwaha-9653b32a5/">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-</a>
-<a href="https://www.instagram.com/adarshx.0/">
-  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
-</a>
-<a href="https://www.facebook.com/profile.php?id=100008934187837">
-  <img src="https://img.shields.io/badge/Facebook-0866FF?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" />
-</a>
-
-</div>
+<p align="center">
+  <a href="https://github.com/adarshadarshkushwaha-ux" target="_blank">
+    <img src="https://cdn.simpleicons.org/github/FFFFFF" alt="GitHub" width="45" height="45"/>
+  </a>
+  &nbsp;&nbsp;
+  <a href="YOUR_LINKEDIN_URL" target="_blank">
+    <img src="https://cdn.simpleicons.org/linkedin/0A66C2" alt="LinkedIn" width="45" height="45"/>
+  </a>
+  &nbsp;&nbsp;
+  <a href="YOUR_INSTAGRAM_URL" target="_blank">
+    <img src="https://cdn.simpleicons.org/instagram/E4405F" alt="Instagram" width="45" height="45"/>
+  </a>
+  &nbsp;&nbsp;
+  <a href="YOUR_FACEBOOK_URL" target="_blank">
+    <img src="https://cdn.simpleicons.org/facebook/1877F2" alt="Facebook" width="45" height="45"/>
+  </a>
+</p>
 
 <!-- Add your LinkedIn profile URL below when ready -->
 
