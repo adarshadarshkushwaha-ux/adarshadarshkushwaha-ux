@@ -2,21 +2,18 @@
 
 <div align="center">
 
+
+<div align="center">
+
 # 👋 Hi, I'm Adarsh Kushwaha
-
-
-align="center">
-
-
-
-
-</div>
 
 ### Aspiring Software Developer | Web Development | AI Integration
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00D9FF&center=true&vCenter=true&width=650&lines=Web+Developer+in+Progress;Building+Projects+with+TypeScript;Learning+Backend+Development;Exploring+AI+Integration" alt="Animated introduction" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00D9FF&center=true&vCenter=true&width=650&lines=Web+Developer+in+Progress;Building+Projects+with+JavaScript;Learning+Backend+Development;Exploring+AI+Integration;Practicing+DSA+with+Java" alt="Animated introduction" />
 
 </div>
+
+
 
 ---
 
