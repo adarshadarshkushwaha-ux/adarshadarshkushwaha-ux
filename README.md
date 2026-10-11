@@ -20,12 +20,13 @@
 - 🌱 Learning DSA and building practical projects.
 - 🎯 Working toward becoming job-ready in 2027.
 
+
+
+
 ## 🛠️ Languages and Tools
 
 <div align="center">
-
-<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nodejs,git,github,vscode" alt="HTML, CSS, JavaScript, TypeScript, React, Node.js, Git, GitHub, VS Code" />
-
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,git,github,vscode,java" alt="HTML, CSS, JavaScript, React, Node.js, Git, GitHub, VS Code and Java" />
 </div>
 
 ## 💼 Featured Project
@@ -55,9 +56,25 @@ An educational management dashboard designed to help schools manage student info
 
 ## 🤝 Connect With Me
 
+
+## 🤝 Connect With Me
+
 <div align="center">
 
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/adarshadarshkushwaha-ux)
+<a href="https://github.com/adarshadarshkushwaha-ux">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+</a>
+<a href="https://www.linkedin.com/in/adarsh-kushwaha-9653b32a5/">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+</a>
+<a href="https://www.instagram.com/adarshx.0/">
+  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+</a>
+<a href="https://www.facebook.com/profile.php?id=100008934187837">
+  <img src="https://img.shields.io/badge/Facebook-0866FF?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" />
+</a>
+
+</div>
 
 <!-- Add your LinkedIn profile URL below when ready -->
 
