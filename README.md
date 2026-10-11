@@ -38,7 +38,7 @@
 <div align="center">
   <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,git,github,vscode,java" alt="HTML, CSS, JavaScript, React, Node.js, Git, GitHub, VS Code and Java" />
 </div>
-```html
+
 <h2 align="center">🧠 DSA & Problem Solving</h2>
 
 <p align="center">
@@ -50,7 +50,7 @@
   <img src="https://img.shields.io/badge/Focus-DSA-blue?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Goal-Problem%20Solving-green?style=for-the-badge" />
 </p>
-```
+
 
 ## 💼 Featured Project
 
