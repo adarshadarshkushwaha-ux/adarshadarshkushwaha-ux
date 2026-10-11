@@ -4,11 +4,9 @@
 
 # 👋 Hi, I'm Adarsh Kushwaha
 
-<div align="center">
-  <img src="./profile.png" width="150" height="150" alt="Adarsh's profile photo" style="border-radius: 50%;" />
-</div>
 
-<div align="center">
+
+
 
 
 
