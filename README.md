@@ -88,7 +88,7 @@ An educational management dashboard designed to help schools manage student info
   </a>
   &nbsp;&nbsp;
 
-  <a href="linkedin.com/in/adarsh-kushwaha-9653b32a5" target="_blank">
+  <a href="https://www.linkedin.com/in/adarsh-kushwaha-9653b32a5/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
   &nbsp;&nbsp;
@@ -103,9 +103,7 @@ An educational management dashboard designed to help schools manage student info
   </a>
   &nbsp;&nbsp;
   
-   <a href="https://www.linkedin.com/in/adarsh-kushwaha-9653b32a5/" target="_blank">
-    <img src="https://cdn.simpleicons.org/linkdin/1877F2" alt="linkdin" width="40" height="40"/>
-  </a>
+   
 </p>
 
 
