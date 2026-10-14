@@ -98,8 +98,13 @@ An educational management dashboard designed to help schools manage student info
   </a>
   &nbsp;&nbsp;
 
-  <a href="[YOUR_FACEBOOK_URL](https://www.facebook.com/profile.php?id=100008934187837)" target="_blank">
+  <a href="https://www.facebook.com/profile.php?id=100008934187837" target="_blank">
     <img src="https://cdn.simpleicons.org/facebook/1877F2" alt="Facebook" width="40" height="40"/>
+  </a>
+  &nbsp;&nbsp;
+  
+   <a href="https://www.linkedin.com/in/adarsh-kushwaha-9653b32a5/" target="_blank">
+    <img src="https://cdn.simpleicons.org/linkdin/1877F2" alt="linkdin" width="40" height="40"/>
   </a>
 </p>
 
