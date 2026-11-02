@@ -61,15 +61,16 @@ An educational management dashboard designed to help schools manage student info
 **Tech stack:** TypeScript, React, CSS, AI integration
 
 [![View Project](https://img.shields.io/badge/View-EduTrack-blue?style=for-the-badge&logo=github)](https://github.com/adarshadarshkushwaha-ux/EduTrack)
-
 ## 📊 GitHub Statistics
 
 <div align="center">
+  <img src="https://img.shields.io/github/followers/adarshadarshkushwaha-ux?style=for-the-badge&logo=github&color=0A66C2" alt="Followers" />
+  <img src="https://img.shields.io/github/stars/adarshadarshkushwaha-ux?style=for-the-badge&logo=github&color=yellow" alt="Stars" />
+  <img src="https://komarev.com/ghpvc/?username=adarshadarshkushwaha-ux&label=Profile%20Views&style=for-the-badge&color=blueviolet" alt="Profile views" />
+</div>
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=adarshadarshkushwaha-ux&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub statistics" />
-
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=adarshadarshkushwaha-ux&layout=compact&theme=tokyonight&hide_border=true" alt="Most used languages" />
-
+<div align="center">
+  <img src="https://streak-stats.demolab.com/?user=adarshadarshkushwaha-ux&theme=tokyonight&hide_border=true" alt="GitHub streak" />
 </div>
 
 ## 🤝 Connect With Me
