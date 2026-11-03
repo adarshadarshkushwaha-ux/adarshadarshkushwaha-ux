@@ -1,10 +1,13 @@
 <div align="center">
 
-# 👋 Hi, I'm Adarsh Kushwaha
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Adarsh%20Kushwaha&fontSize=42&fontColor=ffffff&fontAlignY=38&desc=Full-Stack%20Web%20Developer&descAlignY=60&descSize=18" alt="Adarsh Kushwaha banner" />
 
-### Aspiring Software Developer | Web Development | AI Integration | DSA
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=00D9FF&center=true&vCenter=true&width=650&lines=Building+full-stack+projects+with+React+%26+Node.js;Practicing+DSA+in+Java;Exploring+AI+integration+in+web+apps;Open+to+internships+and+entry-level+roles" alt="Typing animation" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00D9FF&center=true&vCenter=true&width=650&lines=Web+Developer;Building+Projects+with+JavaScript;Learning+Backend+Development;Exploring+AI+Integration;Practicing+DSA+with+Java" alt="Animated introduction" />
+<br/>
+
+![Profile Views](https://komarev.com/ghpvc/?username=adarshadarshkushwaha-ux&label=Profile%20Views&style=flat-square&color=blueviolet)
+![Followers](https://img.shields.io/github/followers/adarshadarshkushwaha-ux?style=flat-square&logo=github&color=0A66C2)
 
 </div>
 
@@ -12,84 +15,102 @@
 
 ## 🚀 About Me
 
-- 🎓 B.Tech student preparing for software development opportunities.
-- 💻 Interested in web development and backend engineering.
-- 🤖 Exploring AI integration in web applications.
-- 🌱 Learning DSA and building practical projects.
-- 🎯 Working toward becoming job-ready in 2027.
+I'm a B.Tech student at **NRI Group of Institutions, Bhopal (RGPV)**, batch of **2027**. I build web applications end to end and enjoy turning ideas into working products.
 
-## 🛠️ Languages and Tools
+- 💻 Full-stack development with the React, Node.js, Express and MongoDB stack
+- 🧠 Solving problems and practicing DSA in Java
+- 🤖 Exploring AI integration in web applications
+- 🎯 Working toward software developer roles in 2027
 
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,git,github,vscode,java" alt="HTML, CSS, JavaScript, React, Node.js, Git, GitHub, VS Code and Java" />
-</div>
+## 🌱 Currently Focused On
 
-<h2 align="center">🧠 DSA & Problem Solving</h2>
+- ⚛️ Advanced React and building larger full-stack projects
+- 🔧 Backend development with Node.js, Express, SQL and MongoDB
+- 🧩 Daily DSA practice and aptitude preparation
 
-<p align="center">
-  Currently learning Data Structures and Algorithms using Java.
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Language-Java-orange?style=for-the-badge&logo=openjdk&logoColor=white" />
-  <img src="https://img.shields.io/badge/Focus-DSA-blue?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Goal-Problem%20Solving-green?style=for-the-badge" />
-</p>
-
-## 💼 Featured Project
-
-### 🎓 EduTrack
-
-An educational management dashboard designed to help schools manage student information and explore AI-powered insights.
-
-- 📊 Student dashboard and management
-- 🤖 AI Copilot and insights
-- 🎯 Student intervention tracking
-- 🌐 Multilingual interface
-
-**Tech stack:** TypeScript, React, CSS, AI integration
-
-[![View Project](https://img.shields.io/badge/View-EduTrack-blue?style=for-the-badge&logo=github)](https://github.com/adarshadarshkushwaha-ux/EduTrack)
-
-## 📊 GitHub Statistics
+## 🛠️ Tech Stack
 
 <div align="center">
-  <img src="https://img.shields.io/github/followers/adarshadarshkushwaha-ux?style=for-the-badge&logo=github&color=0A66C2" alt="Followers" />
-  <img src="https://komarev.com/ghpvc/?username=adarshadarshkushwaha-ux&label=Profile%20Views&style=for-the-badge&color=blueviolet" alt="Profile views" />
+
+| Category | Technologies |
+|---|---|
+| **Languages** | ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) |
+| **Frontend** | ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white) ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB) |
+| **Backend** | ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white) ![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white) |
+| **Databases** | ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white) |
+| **Tools** | ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white) ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white) |
+
 </div>
+
+## 💼 Featured Projects
+
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🎓 EduTrack</h3>
+      <p>An educational management dashboard that helps schools manage student information and explore AI-powered insights.</p>
+      <ul>
+        <li>📊 Student dashboard and management</li>
+        <li>🤖 AI Copilot and insights</li>
+        <li>🎯 Student intervention tracking</li>
+        <li>🌐 Multilingual interface</li>
+      </ul>
+      <p><b>Stack:</b> TypeScript, React, CSS, AI integration</p>
+      <a href="https://github.com/adarshadarshkushwaha-ux/EduTrack">
+        <img src="https://img.shields.io/badge/View%20Repository-EduTrack-0A66C2?style=for-the-badge&logo=github" alt="EduTrack repository" />
+      </a>
+    </td>
+    <td width="50%" valign="top">
+      <h3>🧭 TechSaarthi</h3>
+      <p>A full-stack web application with a React (Vite) frontend and an Express and MongoDB backend.</p>
+      <ul>
+        <li>✨ Add your key feature here</li>
+        <li>✨ Add your key feature here</li>
+        <li>✨ Add your key feature here</li>
+      </ul>
+      <p><b>Stack:</b> React, Vite, Express, MongoDB</p>
+      <a href="https://github.com/adarshadarshkushwaha-ux/YOUR-REPO-NAME">
+        <img src="https://img.shields.io/badge/View%20Repository-TechSaarthi-0A66C2?style=for-the-badge&logo=github" alt="TechSaarthi repository" />
+      </a>
+    </td>
+  </tr>
+</table>
+
+## 🧠 DSA & Problem Solving
+
+<p align="center">
+  <a href="https://leetcode.com/u/Adarshkushwaha007/">
+    <img src="https://img.shields.io/badge/LeetCode-Adarshkushwaha007-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode profile" />
+  </a>
+  <img src="https://img.shields.io/badge/Language-Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
+  <img src="https://img.shields.io/badge/Focus-DSA-blue?style=for-the-badge" alt="DSA focus" />
+</p>
+
+## 🏅 Certifications
+
+- 🎓 **Prompt Engineering Essentials**, FreeAcademy.ai (October 2026)
+
+## 📊 GitHub Stats
 
 <div align="center">
   <img src="https://streak-stats.demolab.com/?user=adarshadarshkushwaha-ux&theme=tokyonight&hide_border=true" alt="GitHub streak" />
 </div>
 
-<h2 align="center">🤝 Connect With Me</h2>
+## 🤝 Let's Connect
 
 <p align="center">
-  <a href="https://github.com/adarshadarshkushwaha-ux" target="_blank">
-    <img src="https://cdn.simpleicons.org/github/FFFFFF" alt="GitHub" width="40" height="40"/>
+  <a href="https://www.linkedin.com/in/adarsh-kushwaha-9653b32a5/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  &nbsp;&nbsp;
   <a href="mailto:adarshadarshkushwaha@gmail.com">
-    <img src="https://cdn.simpleicons.org/gmail/EA4335" alt="Email" width="40" height="40"/>
+    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
-  &nbsp;&nbsp;
-  <a href="https://www.linkedin.com/in/adarsh-kushwaha-9653b32a5/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  <a href="https://github.com/adarshadarshkushwaha-ux">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
-  &nbsp;&nbsp;
-  <a href="https://www.instagram.com/adarshx.0/" target="_blank">
-    <img src="https://cdn.simpleicons.org/instagram/E4405F" alt="Instagram" width="40" height="40"/>
-  </a>
-  &nbsp;&nbsp;
-  <a href="https://www.facebook.com/profile.php?id=100008934187837" target="_blank">
-    <img src="https://cdn.simpleicons.org/facebook/1877F2" alt="Facebook" width="40" height="40"/>
+  <a href="https://leetcode.com/u/Adarshkushwaha007/">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode" />
   </a>
 </p>
 
----
-
-<div align="center">
-
-⭐ Thanks for visiting my profile!
-
-</div>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" alt="footer" width="100%" />
