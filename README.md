@@ -1,6 +1,3 @@
-
-
-
 <div align="center">
 
 # 👋 Hi, I'm Adarsh Kushwaha
@@ -11,8 +8,6 @@
 
 </div>
 
-
-
 ---
 
 ## 🚀 About Me
@@ -22,9 +17,6 @@
 - 🤖 Exploring AI integration in web applications.
 - 🌱 Learning DSA and building practical projects.
 - 🎯 Working toward becoming job-ready in 2027.
-
-
-
 
 ## 🛠️ Languages and Tools
 
@@ -44,7 +36,6 @@
   <img src="https://img.shields.io/badge/Goal-Problem%20Solving-green?style=for-the-badge" />
 </p>
 
-
 ## 💼 Featured Project
 
 ### 🎓 EduTrack
@@ -59,20 +50,17 @@ An educational management dashboard designed to help schools manage student info
 **Tech stack:** TypeScript, React, CSS, AI integration
 
 [![View Project](https://img.shields.io/badge/View-EduTrack-blue?style=for-the-badge&logo=github)](https://github.com/adarshadarshkushwaha-ux/EduTrack)
+
 ## 📊 GitHub Statistics
 
 <div align="center">
   <img src="https://img.shields.io/github/followers/adarshadarshkushwaha-ux?style=for-the-badge&logo=github&color=0A66C2" alt="Followers" />
-  <img src="https://img.shields.io/github/stars/adarshadarshkushwaha-ux?style=for-the-badge&logo=github&color=yellow" alt="Stars" />
   <img src="https://komarev.com/ghpvc/?username=adarshadarshkushwaha-ux&label=Profile%20Views&style=for-the-badge&color=blueviolet" alt="Profile views" />
 </div>
 
 <div align="center">
   <img src="https://streak-stats.demolab.com/?user=adarshadarshkushwaha-ux&theme=tokyonight&hide_border=true" alt="GitHub streak" />
 </div>
-
-## 🤝 Connect With Me
-
 
 <h2 align="center">🤝 Connect With Me</h2>
 
@@ -81,36 +69,22 @@ An educational management dashboard designed to help schools manage student info
     <img src="https://cdn.simpleicons.org/github/FFFFFF" alt="GitHub" width="40" height="40"/>
   </a>
   &nbsp;&nbsp;
-
   <a href="mailto:adarshadarshkushwaha@gmail.com">
     <img src="https://cdn.simpleicons.org/gmail/EA4335" alt="Email" width="40" height="40"/>
   </a>
   &nbsp;&nbsp;
-
   <a href="https://www.linkedin.com/in/adarsh-kushwaha-9653b32a5/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
   &nbsp;&nbsp;
-
   <a href="https://www.instagram.com/adarshx.0/" target="_blank">
     <img src="https://cdn.simpleicons.org/instagram/E4405F" alt="Instagram" width="40" height="40"/>
   </a>
   &nbsp;&nbsp;
-
   <a href="https://www.facebook.com/profile.php?id=100008934187837" target="_blank">
     <img src="https://cdn.simpleicons.org/facebook/1877F2" alt="Facebook" width="40" height="40"/>
   </a>
-  &nbsp;&nbsp;
-  
-   
 </p>
-
-
-
-
-<!-- Add your LinkedIn profile URL below when ready -->
-
-</div>
 
 ---
 
