@@ -93,7 +93,7 @@ I'm a B.Tech student at **NRI Group of Institutions, Bhopal (RGPV)**, batch of *
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com/?user=adarshadarshkushwaha-ux&theme=tokyonight&hide_border=true" alt="GitHub streak" />
+  <img src="https://streak-stats.demolab.com/?user=adarshadarshkushwaha-ux&theme=tokyonight&hide_border=true&hide_current_streak=true&hide_longest_streak=true" alt="GitHub streak" />
 </div>
 
 ## 🤝 Let's Connect
