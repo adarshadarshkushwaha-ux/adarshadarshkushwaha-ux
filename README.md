@@ -88,7 +88,10 @@ I'm a B.Tech student at **NRI Group of Institutions, Bhopal (RGPV)**, batch of *
 
 ## 🏅 Certifications
 
-- 🎓 **Prompt Engineering Essentials**, FreeAcademy.ai (October 2026)
+- 🎓 **Prompt Engineering Essentials (October 2026)
+- 🎓 **Web Development internship (October 2026)
+- 🎓 **Ai tool Workshop (June 2025)
+- 🎓 **Gen Ai Proposal Generation Job Simulation(September 2026)
 
 ## 📊 GitHub Stats
 
