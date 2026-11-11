@@ -12,7 +12,6 @@
 </div>
 
 ---
-
 ## 🚀 About Me
 
 I'm a B.Tech student at **NRI Group of Institutions, Bhopal (RGPV)**, batch of **2027**. I build web applications end to end and enjoy turning ideas into working products.
