@@ -1,7 +1,10 @@
 
 <div align="center">
 
+
+
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Adarsh%20Kushwaha&fontSize=42&fontColor=ffffff&fontAlignY=38&desc=Full-Stack%20Web%20Developer&descAlignY=60&descSize=18" alt="Adarsh Kushwaha banner" />
+
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=00D9FF&center=true&vCenter=true&width=650&lines=Building+full-stack+projects+with+React+%26+Node.js;Practicing+DSA+in+Java;Exploring+AI+integration+in+web+apps;Open+to+internships+and+entry-level+roles" alt="Typing animation" />
 
@@ -14,6 +17,7 @@
 
 ---
 ## 🚀 About Me
+
 
 I'm a B.Tech student at **NRI Group of Institutions, Bhopal (RGPV)**, batch of **2027**. I build web applications end to end and enjoy turning ideas into working products.
 
